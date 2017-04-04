@@ -1,0 +1,73 @@
+html
+    {
+       background: url("http://webdesignerdepot.s3.amazonaws.com/default-images/46.jpg") no-repeat center center fixed ;
+       -webkit-background-size: cover;
+       -moz-background-size: cover;
+       -o-background-size:cover;
+        background-size: cover;
+    }
+    asp:table
+    {
+        
+        padding-left:1000px;
+		-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+border-radius: 5px;
+
+    }
+    tr
+    {
+        background-color:#FFFCFC;
+          border:none; 
+        
+          width:auto;    
+    }
+	
+	{
+		font-size:2005px;
+		
+		font-family:Comic-Sans;
+	}
+    tr:hover
+    {
+        background-color:#FFD9BD;
+         width:auto;
+        
+    }
+	button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+    td
+    {
+        height:60px;
+        width:12%;
+        border-top-left-radius: 25px;
+          radius: 1000px;
+         
+    } 
+     td:hover 
+    {
+      
+      outline:none;
+    }
+     p:
+     {
+         font-size:15px;
+        
+         
+     }
+     p:hover
+     {
+
+     }
+     p::after(2)
+     {
+         background-color:azure;
+     }

@@ -1,0 +1,65 @@
+html
+    {
+       background: url("https://pbs.twimg.com/media/CqA3zzIUsAA9KkA.jpg") no-repeat center center fixed ;
+	   
+       -webkit-background-size: cover;
+       -moz-background-size: cover;
+       -o-background-size:cover;
+        background-size: cover;
+    }
+    table
+    {
+		border = 2px;
+        border-collapse:collapse;
+        padding-left:1000px;
+    }
+	img:hover{
+  border-color: #66afe9;
+  outline: 0;
+  -webkit-box-shadow: inset 5px rgba(0,0,0,.075), 0 0 8px rgba(102, 175, 233, 0.6);
+  box-shadow: inset 5px rgba(0,0,0,.075), 0 0 8px rgba(102, 175, 233, 0.6);
+}
+    tr
+    {
+        background-color:#FFFCFC;
+          border:1px; 
+          
+          width:auto;    
+    }
+	tr:nth-child(even)
+	{
+		background-color:#d3d3d3;
+	}
+    tr:hover
+    {
+        background-color:#FFD9BD;
+         width:auto;
+        
+    }
+    td
+    {
+        height:60px;
+        width:12%;
+        /*border-top-left-radius: 25px;*/
+        
+         
+    } 
+     td:hover 
+    {
+      
+      outline:none;
+    }
+     p:
+     {
+         font-size:15px;
+        
+         
+     }
+     p:hover
+     {
+
+     }
+     p::after(2)
+     {
+         background-color:azure;
+     }

@@ -1,0 +1,103 @@
+C:\Users\kionteb\Source\Repos\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\ApplicationInsights.config
+C:\Users\kionteb\Source\Repos\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\roslyn\csc.exe
+C:\Users\kionteb\Source\Repos\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kionteb\Source\Repos\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kionteb\Source\Repos\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kionteb\Source\Repos\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kionteb\Source\Repos\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kionteb\Source\Repos\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kionteb\Source\Repos\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kionteb\Source\Repos\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kionteb\Source\Repos\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\roslyn\vbc.exe
+C:\Users\kionteb\Source\Repos\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\roslyn\VBCSCompiler.exe
+C:\Users\kionteb\Source\Repos\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kionteb\Source\Repos\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\TaggingWebsite.dll.config
+C:\Users\kionteb\Source\Repos\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\TaggingWebsite.dll
+C:\Users\kionteb\Source\Repos\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\TaggingWebsite.pdb
+C:\Users\kionteb\Source\Repos\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\kionteb\Source\Repos\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\kionteb\Source\Repos\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\kionteb\Source\Repos\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\kionteb\Source\Repos\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\Microsoft.AI.Web.dll
+C:\Users\kionteb\Source\Repos\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\kionteb\Source\Repos\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\Microsoft.ApplicationInsights.dll
+C:\Users\kionteb\Source\Repos\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kionteb\Source\Repos\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\kionteb\Source\Repos\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\kionteb\Source\Repos\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\Microsoft.AI.Web.xml
+C:\Users\kionteb\Source\Repos\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\kionteb\Source\Repos\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\Microsoft.ApplicationInsights.xml
+C:\Users\kionteb\Source\Repos\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kionteb\Source\Repos\TaggingWebsite\TaggingWebsite\TaggingWebsite\obj\Debug\TaggingWebsite.csprojResolveAssemblyReference.cache
+C:\Users\kionteb\Source\Repos\TaggingWebsite\TaggingWebsite\TaggingWebsite\obj\Debug\TaggingWebsite.dll
+C:\Users\kionteb\Source\Repos\TaggingWebsite\TaggingWebsite\TaggingWebsite\obj\Debug\TaggingWebsite.pdb
+C:\Users\Scottr\Documents\Visual Studio 2015\src\TaggingWebsite\TaggingWebsite\TaggingWebsite\obj\Debug\TaggingWebsite.csprojResolveAssemblyReference.cache
+C:\Users\Scottr\Documents\Visual Studio 2015\src\TaggingWebsite\TaggingWebsite\TaggingWebsite\obj\Debug\TaggingWebsite.dll
+C:\Users\Scottr\Documents\Visual Studio 2015\src\TaggingWebsite\TaggingWebsite\TaggingWebsite\obj\Debug\TaggingWebsite.pdb
+C:\Users\Scottr\Documents\Visual Studio 2015\src\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\ApplicationInsights.config
+C:\Users\Scottr\Documents\Visual Studio 2015\src\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\roslyn\csc.exe
+C:\Users\Scottr\Documents\Visual Studio 2015\src\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Scottr\Documents\Visual Studio 2015\src\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Scottr\Documents\Visual Studio 2015\src\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Scottr\Documents\Visual Studio 2015\src\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Scottr\Documents\Visual Studio 2015\src\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Scottr\Documents\Visual Studio 2015\src\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Scottr\Documents\Visual Studio 2015\src\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Scottr\Documents\Visual Studio 2015\src\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Scottr\Documents\Visual Studio 2015\src\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\roslyn\vbc.exe
+C:\Users\Scottr\Documents\Visual Studio 2015\src\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\roslyn\VBCSCompiler.exe
+C:\Users\Scottr\Documents\Visual Studio 2015\src\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Scottr\Documents\Visual Studio 2015\src\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\TaggingWebsite.dll.config
+C:\Users\Scottr\Documents\Visual Studio 2015\src\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\TaggingWebsite.dll
+C:\Users\Scottr\Documents\Visual Studio 2015\src\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\TaggingWebsite.pdb
+C:\Users\Scottr\Documents\Visual Studio 2015\src\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Scottr\Documents\Visual Studio 2015\src\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Scottr\Documents\Visual Studio 2015\src\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Scottr\Documents\Visual Studio 2015\src\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Scottr\Documents\Visual Studio 2015\src\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\Microsoft.AI.Web.dll
+C:\Users\Scottr\Documents\Visual Studio 2015\src\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Scottr\Documents\Visual Studio 2015\src\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Scottr\Documents\Visual Studio 2015\src\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Scottr\Documents\Visual Studio 2015\src\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Scottr\Documents\Visual Studio 2015\src\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Scottr\Documents\Visual Studio 2015\src\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\Microsoft.AI.Web.xml
+C:\Users\Scottr\Documents\Visual Studio 2015\src\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Scottr\Documents\Visual Studio 2015\src\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Scottr\Documents\Visual Studio 2015\src\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Scottr\Documents\Visual Studio 2015\src\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\MySql.Data.dll
+C:\Users\kionteb\Source\Repos\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\MySql.Data.dll
+C:\Users\Scottr\Documents\Visual Studio 2015\src\retry\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\ApplicationInsights.config
+C:\Users\Scottr\Documents\Visual Studio 2015\src\retry\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\roslyn\csc.exe
+C:\Users\Scottr\Documents\Visual Studio 2015\src\retry\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Scottr\Documents\Visual Studio 2015\src\retry\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Scottr\Documents\Visual Studio 2015\src\retry\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Scottr\Documents\Visual Studio 2015\src\retry\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Scottr\Documents\Visual Studio 2015\src\retry\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Scottr\Documents\Visual Studio 2015\src\retry\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Scottr\Documents\Visual Studio 2015\src\retry\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Scottr\Documents\Visual Studio 2015\src\retry\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Scottr\Documents\Visual Studio 2015\src\retry\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\roslyn\vbc.exe
+C:\Users\Scottr\Documents\Visual Studio 2015\src\retry\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\roslyn\VBCSCompiler.exe
+C:\Users\Scottr\Documents\Visual Studio 2015\src\retry\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Scottr\Documents\Visual Studio 2015\src\retry\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\TaggingWebsite.dll.config
+C:\Users\Scottr\Documents\Visual Studio 2015\src\retry\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\TaggingWebsite.dll
+C:\Users\Scottr\Documents\Visual Studio 2015\src\retry\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\TaggingWebsite.pdb
+C:\Users\Scottr\Documents\Visual Studio 2015\src\retry\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Scottr\Documents\Visual Studio 2015\src\retry\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Scottr\Documents\Visual Studio 2015\src\retry\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Scottr\Documents\Visual Studio 2015\src\retry\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Scottr\Documents\Visual Studio 2015\src\retry\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\Microsoft.AI.Web.dll
+C:\Users\Scottr\Documents\Visual Studio 2015\src\retry\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Scottr\Documents\Visual Studio 2015\src\retry\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Scottr\Documents\Visual Studio 2015\src\retry\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Scottr\Documents\Visual Studio 2015\src\retry\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\MySql.Data.dll
+C:\Users\Scottr\Documents\Visual Studio 2015\src\retry\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Scottr\Documents\Visual Studio 2015\src\retry\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Scottr\Documents\Visual Studio 2015\src\retry\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\Microsoft.AI.Web.xml
+C:\Users\Scottr\Documents\Visual Studio 2015\src\retry\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Scottr\Documents\Visual Studio 2015\src\retry\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Scottr\Documents\Visual Studio 2015\src\retry\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Scottr\Documents\Visual Studio 2015\src\retry\TaggingWebsite\TaggingWebsite\TaggingWebsite\bin\MySql.Data.xml
+C:\Users\Scottr\Documents\Visual Studio 2015\src\retry\TaggingWebsite\TaggingWebsite\TaggingWebsite\obj\Debug\TaggingWebsite.dll
+C:\Users\Scottr\Documents\Visual Studio 2015\src\retry\TaggingWebsite\TaggingWebsite\TaggingWebsite\obj\Debug\TaggingWebsite.pdb
+C:\Users\Scottr\Documents\Visual Studio 2015\src\retry\TaggingWebsite\TaggingWebsite\TaggingWebsite\obj\Debug\TaggingWebsite.csprojResolveAssemblyReference.cache
